@@ -1,6 +1,6 @@
-basewidth = 16.5;
-baselength = 31.5;
-baseheight = 7;
+basewidth = 14.5;
+baselength = 29.5;
+baseheight = 6;
 verticaloffset = -0.5;
 
 innerwidth = 12.5;
@@ -10,8 +10,8 @@ pipediameter1 = 42.5;
 pipediameter2 = 52.5;
 pipewallthickness = 4;
 
-topwidth = 13;
-toplength = 28;
+topwidth = 12;
+toplength = 27;
 topheight = 3;
 
 // left side
@@ -23,19 +23,19 @@ cable2diameter = 5;
 cable2type = 1;
 cable2width = 0;
 
-cable3diameter = 3.5;
+cable3diameter = 4;
 cable3type = 2;
-cable3width = 6.8;
+cable3width = 7.5;
 
 /*
 // right side
-cable1diameter = 6.5; 
+cable1diameter = 6; 
 cable1type = 1;
 cable1width = 0;
 
-cable2diameter = 3.5;
+cable2diameter = 4;
 cable2type = 2;
-cable2width = 7;
+cable2width = 7.5;
 
 cable3diameter = 0;
 cable3type = 0;
